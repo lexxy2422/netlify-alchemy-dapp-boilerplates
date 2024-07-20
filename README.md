@@ -4,14 +4,14 @@ This boilerplate is set up to be deployed on Netlify and you can directly deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lexxy2422/netlify-alchemy-dapp-boilerplates)
 
-Visit the [Live Demo here](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
+Visit the [Live Demo here](https://lexxy2422-cw3d-dapp-boilerplate.netlify.app/)
 
 ## Resources
 Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
 
 -   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
 -   [GitHub](https://github.com/lexxy2422/create-web3-dapp) - look at the extensive code example or start contributing
--   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
+-   [Website](https://createweb3dapp.lexxy2422.com) - Learn more about CW3D and add components to your project
 -   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
 -   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
 -   [Examples](https://github.com/lexxy2422/create-web3-dapp-examples) - See the components implemented in a real world dapp
