@@ -9,11 +9,11 @@ Visit the [Live Demo here](https://lexxy2422-cw3d-dapp-boilerplate.netlify.app/)
 ## Resources
 Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
 
--   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
+-   [Docs](https://docs.lexxy2422.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
 -   [GitHub](https://github.com/lexxy2422/create-web3-dapp) - look at the extensive code example or start contributing
 -   [Website](https://createweb3dapp.lexxy2422.com) - Learn more about CW3D and add components to your project
--   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
--   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
+-   [Templates](https://createweb3dapp.lexxy2422.com/#templates) - Check out the pre-built project templates
+-   [Components Library](https://createweb3dapp.lexxy2422.com/#components) - Add features directly to your project through components
 -   [Examples](https://github.com/lexxy2422/create-web3-dapp-examples) - See the components implemented in a real world dapp
 -   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
 
@@ -21,7 +21,7 @@ Please refer to CW3D's documentation and the following useful links for an in de
 
 This project serves as a boilerplate for creating decentralized applications (dApps) using [Create Web3 Dapp](https://github.com/lexxy2422/create-web3-dapp). It is preconfigured to be deployed on [Netlify](https://www.netlify.com/), providing you with a seamless way to get your dApp up and running in no time.
 
-This boilerplate is built using [CW3D (Create Web3 Dapp)](https://github.com/lexxy2422/create-web3-dapp), a powerful tool developed by [Alchemy](https://www.alchemy.com/) that allows developers to rapidly create and deploy dApps.
+This boilerplate is built using [CW3D (Create Web3 Dapp)](https://github.com/lexxy2422/create-web3-dapp), a powerful tool developed by [lexxy2422]that allows developers to rapidly create and deploy dApps.
 
 ## What's Included?
 
@@ -61,7 +61,7 @@ To get started with this boilerplate, you'll need to have the following software
    ```
 2. Navigate to the project directory:
    ```
-   cd netlify-alchemy-dapp-boilerplates
+   cd netlify-lexxy2422-dapp-boilerplates
    ```
 3. Install the required dependencies:
    ```
@@ -80,7 +80,7 @@ To get started with this boilerplate, you'll need to have the following software
 
 This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lexxy2422/netlify-alchemy-dapp-boilerplates)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lexxy2422/netlify-lexxy2422-dapp-boilerplates)
 
  If you prefer to deploy it manually, you can follow these steps:
 
